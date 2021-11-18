@@ -17,6 +17,7 @@
 
 - [Будни SAPёра](https://t.me/budni_sapera) - Канал о SAP и ABAP. Обучение, новости, развитие.
 - [ABAP-Blog](https://t.me/abapblog) - Про SAP, ABAP и разработку в целом.
+- [SAP Data Intelligence](https://t.me/joinchat/VBzXQY3z8MksXz1c) - Канал про SAP DI с полезными статьями, примерами и ссылками 
 
 ## Чаты
 
